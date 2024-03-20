@@ -2,4 +2,13 @@
     padding: 0px;
     margin: 0px;
     background-color: #765781;
+    font-family: Monospace;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    background-color: #6A2C81;
+    margin: 0px;
+    padding: 20px;
 }
